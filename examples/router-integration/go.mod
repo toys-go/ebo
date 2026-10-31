@@ -1,10 +1,10 @@
 module github.com/flaticols/ebo/examples/router-integration
 
-go 1.23
+go 1.24
 
 require (
 	github.com/flaticols/ebo v0.0.0
-	github.com/go-chi/chi/v5 v5.0.11
+	github.com/go-chi/chi/v5 v5.4.0
 	github.com/go-pkgz/routegroup v1.1.1
 )
 
